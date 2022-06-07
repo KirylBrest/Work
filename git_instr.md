@@ -13,3 +13,5 @@
 git config --global user name
 git config --global email
 ```
+## 4. Иницализация репозитория
+Получить репозиторий можно двумя спосоьами.
